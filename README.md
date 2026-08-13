@@ -4,7 +4,7 @@ Cybersecurity threat hunting and incident investigation
 # Threat Hunting & Incident Investigation Portfolio
 
 This repository documents hands-on threat hunting and security
-incident investigations performed in simulated enterprise environments.
+incident investigations performed in enterprise environments.
 
 Investigations focus on identifying attacker behavior through telemetry,
 reconstructing attack timelines, correlating activity across security
