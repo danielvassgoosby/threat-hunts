@@ -30,4 +30,8 @@ The investigation included:
 
 ## Investigation Report
 
-The complete sanitized investigation report will be available in this directory when the investigation is complete.
+A sanitized version of the full investigation report is available below.
+
+**[View the Operation Overreach Investigation Report](./report/Operation-Overreach-Investigation-Report-SANITIZED.pdf)**
+
+> Sensitive identity information, internal IP addresses, hostnames, email addresses, and other identifying information have been redacted or anonymized for public release.
